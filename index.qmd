@@ -64,6 +64,13 @@ lang: en
 blank-lines-above-title: 2
 blank-lines-above-author-note: 2
 bibliography: references.bib
+citation: true
+  #type: article-journal
+  #container-title: TITLE OF JOURNAL
+  #volume: INSERT
+  #issue: INSERT
+  #issued: YEAR
+  #doi: INSERT
 ---
 
 <!-- The introduction should not have a level-1 heading such as Introduction. -->
