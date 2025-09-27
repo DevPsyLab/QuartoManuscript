@@ -24,7 +24,7 @@ author:
       - editing
     affiliations:
       - name: University of Iowa
-        department: Psychological and Brain Sciences
+        department: Department of Psychological and Brain Sciences
         address: G60 Psychological and Brain Sciences Building
         city: Iowa City
         region: IA
