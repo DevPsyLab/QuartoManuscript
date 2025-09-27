@@ -65,6 +65,7 @@ lang: en
 blank-lines-above-title: 2
 blank-lines-above-author-note: 2
 bibliography: references.bib
+date: last-modified
 citation: true
   #type: article-journal
   #container-title: TITLE OF JOURNAL
