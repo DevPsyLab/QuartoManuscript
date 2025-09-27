@@ -1,5 +1,5 @@
 ---
-title: "Computational Notebook for R code"
+title: "Correlations"
 author: "Insert Author's Name Here"
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
 format:
