@@ -9,12 +9,12 @@ author:
     corresponding: true
     role:
       - conceptualization
-      - data_curation
-      - formal_analysis
-      - funding_acquisition
+      - data curation
+      - formal analysis
+      - funding acquisition
       - investigation
       - methodology
-      - project_administration
+      - project administration
       - resources
       - software
       - supervision
