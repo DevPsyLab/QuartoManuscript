@@ -6,6 +6,9 @@ execute:
 
 csl: apa.csl
 
+manuscript:
+  code-links: repo
+
 format:
   html:
     toc: true
