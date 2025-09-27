@@ -73,6 +73,7 @@ citation: true
   #issue: INSERT
   #issued: YEAR
   #doi: INSERT
+  url: https://devpsylab.github.io/QuartoManuscript/
 ---
 
 <!-- The introduction should not have a level-1 heading such as Introduction. -->
