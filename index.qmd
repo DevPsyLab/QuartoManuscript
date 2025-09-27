@@ -1,6 +1,6 @@
 ---
 title: Full Title
-shorttitle: Short Title
+shorttitle: Short Title for Running Head
 author:
   - name: Isaac T. Petersen
     orcid: 0000-0003-3072-6673
