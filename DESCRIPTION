@@ -6,6 +6,8 @@ Imports:
   rmarkdown,
   tidyverse,
   svglite,
+  sysfonts,
+  showtext,
   petersenlab
 Remotes:
   DevPsyLab/petersenlab
