@@ -40,11 +40,9 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">data
 curation</role>
 <role vocab="https://credit.niso.org" vocab-term="formal
-analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">formal
-analysis</role>
+analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">analysis</role>
 <role vocab="https://credit.niso.org" vocab-term="funding
-acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">funding
-acquisition</role>
+acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">funding</role>
 <role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
 <role vocab="https://credit.niso.org" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">methodology</role>
 <role vocab="https://credit.niso.org" vocab-term="project
