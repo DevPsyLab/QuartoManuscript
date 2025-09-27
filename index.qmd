@@ -10,8 +10,8 @@ author:
     role:
       - conceptualization
       - data curation
-      - formal analysis
-      - funding acquisition
+      - analysis
+      - funding
       - investigation
       - methodology
       - project administration
