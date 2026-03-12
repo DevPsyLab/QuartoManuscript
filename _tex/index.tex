@@ -9,7 +9,7 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
-
+\usepackage{setspace}
 
 
 \usepackage[bidi=default]{babel}
@@ -22,6 +22,9 @@
 
 \RequirePackage{longtable}
 \RequirePackage{threeparttablex}
+
+\usepackage{framed}
+
 
 \makeatletter
 \renewcommand{\paragraph}{\@startsection{paragraph}{4}{\parindent}%
@@ -73,7 +76,7 @@
 
 
 \usepackage{hyperref}
-
+\usepackage[protrusion=true]{microtype}
 
 
 
@@ -146,7 +149,7 @@
 
 \leftheader{Petersen}
 
-\date{2025-12-30}
+\date{2026-03-12}
 
 
 \abstract{INSERT ABSTRACT HERE. }
@@ -270,6 +273,11 @@ Building, Iowa City, IA 52242. Email: isaac-t-petersen@uiowa.edu}
 
 
 
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{snugshade}\begin{singlespace}}{\end{singlespace}\end{snugshade}}\fi
+
+\newlength{\cslhangindent}
+
+\setlength{\cslhangindent}{0.5in}
 
 \subsection{Section in Introduction}\label{section-in-introduction}
 
