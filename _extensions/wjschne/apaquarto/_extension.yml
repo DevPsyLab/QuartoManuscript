@@ -150,7 +150,8 @@ contributes:
       anchor-sections: false
       fig-cap-location: top
       html-math-method: katex
-      mainfont: Times, Times New Roman, serif
+      mainfont: Times New Roman, Times, serif
+      monofont: Consolas, Lucida Console, Courier New, monospace
       grid: 
         body-width: "7in"
       css: apa.css
