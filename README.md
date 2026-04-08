@@ -5,4 +5,7 @@ Link the GitHub repository to [Zenodo](https://zenodo.org) for obtaining a doi (
 
 The manuscript template uses the [`apaquarto` extension](https://github.com/wjschne/apaquarto).
 
-For an example of a Quarto manuscript, see here: https://github.com/alex-koiter/riparian-grazing-manuscript (the compiled manuscript is available at: https://alexkoiter.ca/riparian-grazing-manuscript/).
+For examples of Quarto manuscripts, see here:
+
+- https://github.com/alex-koiter/riparian-grazing-manuscript (the compiled manuscript is available at: https://alexkoiter.ca/riparian-grazing-manuscript/)
+- https://github.com/jgeller112/Beta_regression_tutorial (the compiled manuscript is available at: https://jgeller112.github.io/beta_regression_tutorial/)
