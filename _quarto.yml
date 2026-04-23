@@ -35,4 +35,5 @@ format:
   apaquarto-pdf:
     documentmode: man
     keep-tex: true
+    pdf-standard: ua-2
   jats: default
