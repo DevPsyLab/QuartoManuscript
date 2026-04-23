@@ -29,9 +29,6 @@ jobs:
           sudo apt-get update -y
           sudo apt-get install -y libcurl4-openssl-dev librsvg2-bin
 
-      - name: Install veraPDF for accessibility validation
-        run: quarto install verapdf
-
       - name: Install tinytex
         uses: r-lib/actions/setup-tinytex@v2 # update
 
@@ -52,6 +49,9 @@ jobs:
         with:
           #version: pre-release
           tinytex: true
+
+      - name: Install veraPDF for accessibility validation
+        run: quarto install verapdf
 
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2 # update
