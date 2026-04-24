@@ -1,15 +1,11 @@
 project:
   type: manuscript
 
-execute:
-  freeze: auto
-
-csl: apa.csl
-
 manuscript:
   code-links: repo
 
 lang: en-US
+csl: apa.csl
 
 format:
   html:
@@ -39,3 +35,6 @@ format:
     keep-tex: true
     pdf-standard: ua-2
   jats: default
+
+execute:
+  freeze: auto
