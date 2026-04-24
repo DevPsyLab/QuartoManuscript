@@ -10,8 +10,6 @@ csl: apa.csl
 format:
   html:
     toc: true
-    execute:
-      error: true
     comments:
       hypothesis:
         theme: classic
@@ -38,3 +36,4 @@ format:
 
 execute:
   freeze: auto
+  error: true
