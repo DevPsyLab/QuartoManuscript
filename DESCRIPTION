@@ -8,6 +8,8 @@ Imports:
   svglite,
   sysfonts,
   showtext,
+  downlit,
+  xml2,
   petersenlab
 Remotes:
   DevPsyLab/petersenlab
