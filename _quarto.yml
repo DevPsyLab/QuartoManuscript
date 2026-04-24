@@ -5,18 +5,19 @@ manuscript:
   code-links: repo
 
 lang: en-US
+bibliography: references.bib
 csl: apa.csl
 
 format:
   html:
     toc: true
+    keep-md: true
+    link-external-newwindow: true
     comments:
       hypothesis:
         theme: classic
         openSidebar: false
         showHighlights: whenSidebarOpen
-    keep-md: true
-    link-external-newwindow: true
     license: CC BY
   #apaquarto-html:
   #  toc: true
@@ -30,8 +31,8 @@ format:
   #  papersize: "us-letter"
   apaquarto-pdf:
     documentmode: man
-    keep-tex: true
     pdf-standard: ua-2
+    keep-tex: true
   jats: default
 
 execute:
