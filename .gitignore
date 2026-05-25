@@ -108,5 +108,6 @@ notebooks/*_files/
 */.ipynb_checkpoints/*
 
 **/*.quarto_ipynb
+.positai
 index.fff
 index.ttt
