@@ -30,25 +30,29 @@ author:
         region: IA
         postal-code: 52242
 author-note:
+  status-changes: 
+    affiliation-change: ~
+    deceased: ~
   disclosures:
-    study-registration: 'The study hypotheses, methods, and analysis plan were
-      preregistered: [LINK].'
-    data-sharing: 'The instruments, data, a data dictionary, analysis scripts,
+    study-registration: "The study hypotheses, methods, and analysis plan were
+      preregistered: [LINK]."
+    data-sharing: "The instruments, data, a data dictionary, analysis scripts,
       and a computational notebook for the present study are published online: 
-      [LINK].'
-    conflict-of-interest: 'We have no conflicts of interest to disclose. The 
+      [LINK]."
+    related-report: ~
+    conflict-of-interest: "We have no conflicts of interest to disclose. The 
       present study was approved by the University of Iowa Institutional Review
       Board (Study #: INSERT). The authors complied with APA ethical standards
-      in the treatment of participants.'
-    financial-support: The study was funded by Grant INSERT from INSERT.
-    gratitude: 'The instruments, data, a data dictionary, analysis scripts, and
-      a computational notebook for the present study are published online: 
-      [LINK].'
-  correspondence-note: 'Correspondence concerning this article should be
+      in the treatment of participants."
+    financial-support: "The study was funded by Grant INSERT from INSERT."
+    gratitude: "We acknowledge..."
+    authorship-agreements: ~
+  correspondence-note: "Correspondence concerning this article should be
     addressed to Isaac T. Petersen, University of Iowa, G60 Psychological and
     Brain Sciences Building, Iowa City, IA 52242.
-    Email: isaac-t-petersen@uiowa.edu'
-abstract: INSERT ABSTRACT HERE.
+    Email: isaac-t-petersen@uiowa.edu"
+abstract: "INSERT ABSTRACT HERE."
+impact-statement: "INSERT IMPACT STATEMENT HERE."
 keywords:
   - keyword1
   - keyword2
