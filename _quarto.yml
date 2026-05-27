@@ -10,7 +10,6 @@ csl: apa.csl
 
 format:
   html:
-    google-analytics: "G-XXXXXXXXXX"
     highlight-style: a11y
     code-link: true
     code-fold: show
@@ -27,6 +26,8 @@ format:
         showHighlights: whenSidebarOpen
     license: CC BY
     csl: apa.csl
+    include-in-header:
+      - file: "includes/google_analytics.html"
   #apaquarto-html:
   #  toc: true
   apaquarto-docx:
