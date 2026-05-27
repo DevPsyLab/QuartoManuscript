@@ -10,6 +10,7 @@ csl: apa.csl
 
 format:
   html:
+    google-analytics: "G-XXXXXXXXXX"
     highlight-style: a11y
     code-link: true
     code-fold: show
