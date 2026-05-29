@@ -82,6 +82,9 @@ citation:
 
 <!-- The introduction should not have a level-1 heading such as Introduction. -->
 
+<!-- UNCOMMENT OUT THE LINE BELOW TO SHOW THE 'IN PROGRESS' NOTE -->
+<!-- ***NOTE: this manuscript is in progress of being drafted—it is incomplete.*** -->
+
 ## Section in Introduction
 
 ## Another Section in Introduction
