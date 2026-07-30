@@ -33,7 +33,7 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 <given-names>Isaac T.</given-names>
 </name>
 <string-name>Isaac T. Petersen</string-name>
-
+<degrees>PhD</degrees>
 <email>isaac-t-petersen@uiowa.edu</email>
 <role vocab="https://credit.niso.org" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">conceptualization</role>
 <role vocab="https://credit.niso.org" vocab-term="data
@@ -57,11 +57,11 @@ administration</role>
 draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
 <role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
 editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
-<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="uiowaPBS">a</xref>
 <xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
 </contrib>
 </contrib-group>
-<aff id="aff-1">
+<aff id="uiowaPBS">
 <institution content-type="dept">Department of Psychological and Brain
 Sciences</institution>
 <institution-wrap>
@@ -70,19 +70,19 @@ Sciences</institution>
 <addr-line>G60 Psychological and Brain Sciences Building</addr-line>
 <city>Iowa City</city>
 <state>IA</state>
-
+<country>United States</country>
 <postal-code>52242</postal-code>
 
-
+<ext-link ext-link-type="uri" xlink:href="https://psychology.uiowa.edu">https://psychology.uiowa.edu</ext-link>
 </aff>
 <author-notes>
 <corresp id="cor-1">isaac-t-petersen@uiowa.edu</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-24">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2026-07-30">
 <year>2026</year>
 <month>7</month>
-<day>24</day>
+<day>30</day>
 </pub-date>
 
 
