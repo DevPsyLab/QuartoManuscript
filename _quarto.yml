@@ -37,7 +37,7 @@ format:
   #  toc: true
   apaquarto-docx:
     toc: false
-  #apaquarto-typst: # comment out Typst until bug is fixed: https://github.com/quarto-dev/quarto-cli/issues/11552
+  #apaquarto-typst: # comment out Typst until bug is fixed: https://github.com/quarto-dev/quarto-cli/issues/11552; this should be fixed when Quarto v1.11 is released: https://github.com/wjschne/apaquarto/issues/114
   #  keep-typ: true
   #  toc: false
   #  list-of-figures: false
