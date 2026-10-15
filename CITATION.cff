@@ -17,6 +17,7 @@ authors:
 #  - type: doi
 #    value: 10.5281/zenodo.22967623
 repository-code: 'https://github.com/DevPsyLab/QuartoManuscript'
+url: 'https://devpsylab.github.io/QuartoManuscript'
 abstract: >-
   This is the GitHub repository for data and analysis code
   associated with the article, "[Article Title]".
